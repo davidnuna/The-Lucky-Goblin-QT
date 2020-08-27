@@ -33,7 +33,8 @@ In order to run the application the QT package and Visual Studio must be install
 1. Start Visual Studio and select "Clone or check out code".
 2. In the Repository location field insert "https://github.com/neutralove/The-Lucky-Goblin-QT.git" .
 3. Choose a local path.
-4. Press "Clone" and you are done.
+4. Press "Clone".
+5. In the "Solution Explorer" double click the project (The Lucky Goblin.sln) and you are done.
 
 # Preview
 
