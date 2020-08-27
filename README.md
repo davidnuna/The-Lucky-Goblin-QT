@@ -17,13 +17,13 @@ The custion has the following options
 - adding a task done by inserting a tasks features in each corresponding field.
 - deleting a task done by selecting a task from the list and pressing the DELETE button.
 - updating a task done by selecting a task, modifying one of its fields and then pressing the UPDATE button.
-- undoingredoing a previous action done by simply pressing the UNDOREDO button.
+- undoing or redoing a previous action done by simply pressing the UNDO or REDO button.
 
 The servant has the following options
 - saving a task done by selecting a task from the custodian's list and pressing the save button. This makes a copy of the original task and adds it in the servant's personal list.
 - filtering the tasks done by adding values in the TYPE and TIMES PERFORMED fields. This will show in the FILTERED LIST only the tasks performed at least the number given in the TIMES PERFORMED field and with a type corresponding to the substring in the TYPE substring.
 - opening the tasks in a table view done simply by pressing the OPEN button.
-- undoingredoing a previous action done by simply pressing the UNDOREDO button.
+- undoing or redoing a previous action done by simply pressing the UNDO or REDO button.
 
 # Requirements
 In order to run the application the QT package and Visual Studio must be installed.
