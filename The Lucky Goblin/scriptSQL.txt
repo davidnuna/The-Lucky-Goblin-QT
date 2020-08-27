@@ -1,0 +1,6 @@
+CREATE DATABASE enchantments;
+use enchantments;
+CREATE TABLE enchantment (title varchar[256], type varchar[256], lastPerformed varchar[256], timesPerformed int, vision varchar[256]);
+INSERT INTO enchantment (title, type, lastPerformed, timesPerformed, vision) VALUES ("fourth", "everything is weird", "04-04-1300", 15, "almost done");
+INSERT INTO enchantment (title, type, lastPerformed, timesPerformed, vision) VALUES ("first", "merchant room clean spill", "01-13-1248", 5, "sparkling room");
+SELECT * FROM enchantment;
