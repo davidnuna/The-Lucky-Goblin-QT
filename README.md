@@ -1,5 +1,5 @@
 # The-Lucky-Goblin-QT
-Simple GUI application for storing and managing tasks for an inn.
+Simple GUI application for storing and managing tasks for an inn (you've guessed it, it's called "The Lucky Goblin").
 
 # What it does
 There are 2 available modes
